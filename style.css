@@ -47,6 +47,6 @@ body {
 	border: solid 0.5px #9e9e9e;
 	cursor: pointer;
 }
-.calculator button:hover {
+.calculator button.active {
 	background-color: #2196f3;
 }
